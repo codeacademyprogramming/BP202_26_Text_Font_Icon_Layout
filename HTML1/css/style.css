@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+}
+
+.box1{
+    width: 200px;
+    height: 100px;
+    border: 10px solid;
+    background-color: gray;
+    margin: 20px;
+    padding: 8px;
+}
+
+
+.box2{  
+    width: 50%;
+    background-color: orange;
+    height: 100px;
+}
