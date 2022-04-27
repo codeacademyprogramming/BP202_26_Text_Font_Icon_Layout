@@ -1,0 +1,43 @@
+@font-face {
+    font-family: bp202;
+    src: url('../fonts/Amatic\ Regular.otf');
+}
+
+body{
+    /* font-family: 'Quicksand', sans-serif; */
+    font-family:b202, 'Times New oman', sans-serif;
+}
+
+p{
+    font-size: 28px;
+    font-weight: 700;
+}
+
+
+.socials{
+
+}
+
+.socials .social-item{
+    list-style: none;
+}
+.socials .social-item a{
+    color: black;
+    display: inline-block;
+    padding: 12px 8px;
+    font-size: 24px;
+    text-decoration: none;
+}
+
+.insta-clr{
+    color: #c32aa3;
+}
+
+.linkedin-clr{
+    color: #0a66c2;
+}
+
+.fb-clr{
+    color: #3b5998;
+}
+
